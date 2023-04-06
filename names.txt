@@ -1,1 +1,1 @@
-hello
+I learned how to use git today!
